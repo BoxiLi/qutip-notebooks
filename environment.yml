@@ -10,3 +10,4 @@ dependencies:
 - matplotlib=3.0.3
 - qutip==4.6
 - imagemagick=7.0.8_49
+- ipython=7.10
