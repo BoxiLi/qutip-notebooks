@@ -1,6 +1,4 @@
 name: Qutip-env
-channels:
-- pip
 dependencies:
 - python==3.7.3
 - pip==19.*
